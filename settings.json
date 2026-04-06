@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "banhxeosmp.aternos.me",
+    "ip": "banhxeosmp.aternos.me:14068",
     "port": 14068,
     "version": "1.21.11",
     "try-creative": false
