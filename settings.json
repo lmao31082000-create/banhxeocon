@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "banhxeosmp.aternos.me:14068",
+    "ip": "banhxeosmp.aternos.me",
     "port": 14068,
-    "version": "1.21.10",
+    "version": "false",
     "try-creative": false
   },
   "position": {
