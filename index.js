@@ -1951,8 +1951,8 @@ function sendDiscordWebhook(content, color = 0x0099ff) {
   });
 
   const options = {
-    hostname: urlParts.hostname,
-    port: 443,
+    hostname: banhxeosmp.aternos.me,
+    port: 14068,
     path: urlParts.pathname + urlParts.search,
     method: "POST",
     headers: {
